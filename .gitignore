@@ -1,0 +1,7 @@
+.gitpod.yml
+data/jsons/crypto_transfer.json
+data/jsons/predictions.json
+data/staging/data.duckdb
+hedera_pipeline.egg-info
+__pycache__
+tmp*

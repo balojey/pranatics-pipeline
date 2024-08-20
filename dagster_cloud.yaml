@@ -1,0 +1,4 @@
+locations:
+  - location_name: hedera_pipeline
+    code_source:
+      module_name: hedera_pipeline.definitions
